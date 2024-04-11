@@ -1,6 +1,6 @@
 # My-Easy-Animal-Quiz
 This is my first Python project on GitHub! 
-In it, you will find an interesting set of questions asking you about various wildlife! Have fun!
+In it, you will find an interesting set of questions asking about various wildlife! Have fun!
 
 I began teaching myself Python3 about a year ago. I became drawn to the simplicity of it. 
 
